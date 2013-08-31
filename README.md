@@ -15,6 +15,6 @@ How to use:
 
 Customization: 
 Edit RipDVD.bat. 
-You may amend "TreadCn" base on your computer's configuration. 
+You may amend "ThreadCn" base on your computer's configuration. 
 And you many also change the video codec / container format if you wanted.
  
